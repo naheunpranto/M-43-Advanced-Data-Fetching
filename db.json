@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 50.99,
+      "stock": 120,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Over-ear wireless headphones with noise cancellation and 30-hour battery life."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Gaming Keyboard",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 75,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae",
+      "description": "RGB mechanical keyboard with customizable switches and durable aluminum frame."
+    },
+    {
+      "id": 3,
+      "name": "Smart Fitness Watch",
+      "category": "Wearables",
+      "price": 129.99,
+      "stock": 60,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "description": "Track heart rate, sleep, workouts, and daily activities with a sleek design."
+    },
+    {
+      "id": 4,
+      "name": "Portable Laptop Stand",
+      "category": "Accessories",
+      "price": 24.99,
+      "stock": 200,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8",
+      "description": "Lightweight adjustable laptop stand for improved ergonomics and airflow."
+    },
+    {
+      "id": 5,
+      "name": "USB-C Hub Adapter",
+      "category": "Accessories",
+      "price": 34.99,
+      "stock": 150,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and power delivery support."
+    }
+  ]
+}
