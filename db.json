@@ -50,5 +50,72 @@
       "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
       "description": "7-in-1 USB-C hub with HDMI, USB 3.0, SD card reader, and power delivery support."
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Self Development",
+      "price": 14.99,
+      "rating": 4.8,
+      "pages": 320,
+      "publishedYear": 2018,
+      "stock": 45,
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "description": "A practical guide to building good habits and breaking bad ones."
+    },
+    {
+      "id": 2,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Finance",
+      "price": 12.99,
+      "rating": 4.7,
+      "pages": 256,
+      "publishedYear": 2020,
+      "stock": 38,
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "description": "Timeless lessons on wealth, greed, and happiness."
+    },
+    {
+      "id": 3,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 13.99,
+      "rating": 4.6,
+      "pages": 304,
+      "publishedYear": 2016,
+      "stock": 27,
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "description": "Rules for focused success in a distracted world."
+    },
+    {
+      "id": 4,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 29.99,
+      "rating": 4.9,
+      "pages": 464,
+      "publishedYear": 2008,
+      "stock": 20,
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "description": "A handbook of agile software craftsmanship and clean coding practices."
+    },
+    {
+      "id": 5,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "category": "Programming",
+      "price": 31.99,
+      "rating": 4.8,
+      "pages": 352,
+      "publishedYear": 2019,
+      "stock": 15,
+      "image": "https://covers.openlibrary.org/b/isbn/9780135957059-L.jpg",
+      "description": "Classic software engineering wisdom for modern developers."
+    }
   ]
 }
