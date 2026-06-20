@@ -13,7 +13,7 @@ import BookCard from "@/components/BookCard";
 
 const BooksPage = async() => {
 
-    const data = await fetch("http://localhost:5000/books", {next: {revalidate: 9}});
+    const data = await fetch("http://localhost:5000/books");
     const books = await data.json();
 
     return (
